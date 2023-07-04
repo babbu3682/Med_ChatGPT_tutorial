@@ -9,7 +9,7 @@
   * [경성구](https://github.com/babbu3682)
 
 
-# 📋 Available List
+# # 📋 Available List
 - [x] Hands_On_EDA.ipynb
 - [x] Hands_On_Train_Base.ipynb
 - [x] Hands_On_Train_OnlyAug.ipynb
@@ -18,4 +18,8 @@
 - [x] Hands_On_Test.ipynb
 - [x] Hands_On_Inference.ipynb
 
+<br>
+
 <p align="center"><img src='./imgs/chat_gpt_image.png' width="870" height="870"></p>
+
+<br>
