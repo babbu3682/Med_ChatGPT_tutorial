@@ -18,4 +18,4 @@
 - [x] Hands_On_Test.ipynb
 - [x] Hands_On_Inference.ipynb
 
-<p align="center"><img src='./imgs/chat_gpt_image.png' width="440" height="150"></p>
+<p align="center"><img src='./imgs/chat_gpt_image.png' width="870" height="870"></p>
