@@ -155,6 +155,7 @@ cython_debug/
 
 # except items
 checkpoints/
-predictions/
+# predictions/
 dataset/train_images/
 dataset/test_images/
+
