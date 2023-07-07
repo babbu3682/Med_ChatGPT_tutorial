@@ -15,8 +15,10 @@
 - [x] Hands_On_Train_OnlyAug.ipynb
 - [x] Hands_On_Train_Aug_L2.ipynb
 - [x] Hands_On_Train_Aug_L2_ViT.ipynb
-- [x] Hands_On_Test.ipynb
-- [x] Hands_On_Inference.ipynb
+- [x] Template_EDA.ipynb
+- [x] Template_Train.ipynb
+- [x] Template_Test.ipynb
+
 
 <br>
 
